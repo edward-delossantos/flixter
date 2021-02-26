@@ -22,6 +22,7 @@
 		FCABB76F25DF525E00774077 /* MovieDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCABB76E25DF525E00774077 /* MovieDetailsViewController.swift */; };
 		FCABB77425DF5EDB00774077 /* MovieGridViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCABB77325DF5EDB00774077 /* MovieGridViewController.swift */; };
 		FCABB77925E05BE300774077 /* MovieGridCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCABB77825E05BE300774077 /* MovieGridCell.swift */; };
+		FCD436CC25E8AA9200C79E2B /* MovieGridDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCD436CB25E8AA9200C79E2B /* MovieGridDetailsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -69,6 +70,7 @@
 		FCABB76E25DF525E00774077 /* MovieDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieDetailsViewController.swift; sourceTree = "<group>"; };
 		FCABB77325DF5EDB00774077 /* MovieGridViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieGridViewController.swift; sourceTree = "<group>"; };
 		FCABB77825E05BE300774077 /* MovieGridCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieGridCell.swift; sourceTree = "<group>"; };
+		FCD436CB25E8AA9200C79E2B /* MovieGridDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieGridDetailsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -154,9 +156,10 @@
 				FC4AFFC725D64C3900232B70 /* LaunchScreen.storyboard */,
 				FC4AFFCA25D64C3900232B70 /* Info.plist */,
 				FC4AFFFA25D64DBE00232B70 /* MoviesViewController.swift */,
-				FC4A001225D64EFC00232B70 /* MovieCell.swift */,
 				FCABB76E25DF525E00774077 /* MovieDetailsViewController.swift */,
+				FC4A001225D64EFC00232B70 /* MovieCell.swift */,
 				FCABB77325DF5EDB00774077 /* MovieGridViewController.swift */,
+				FCD436CB25E8AA9200C79E2B /* MovieGridDetailsViewController.swift */,
 				FCABB77825E05BE300774077 /* MovieGridCell.swift */,
 			);
 			path = flixter;
@@ -420,6 +423,7 @@
 			files = (
 				FCABB76F25DF525E00774077 /* MovieDetailsViewController.swift in Sources */,
 				FC4AFFBD25D64C3600232B70 /* AppDelegate.swift in Sources */,
+				FCD436CC25E8AA9200C79E2B /* MovieGridDetailsViewController.swift in Sources */,
 				FC4AFFBF25D64C3600232B70 /* SceneDelegate.swift in Sources */,
 				FC4A001325D64EFC00232B70 /* MovieCell.swift in Sources */,
 				FC4AFFFB25D64DBE00232B70 /* MoviesViewController.swift in Sources */,
